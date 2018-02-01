@@ -1,0 +1,51 @@
+{
+  "catgory": {
+    "01": {
+      "nama": "Finger Food",
+      "image": "https://i.imgur.com/4SSYRZi.jpg"
+    },
+    "02": {
+      "nama": "Western Food",
+      "image": "https://i.imgur.com/0bbArrP.jpg"
+    },
+    "03": {
+      "nama": "Asian Food",
+      "image": "https://i.imgur.com/xawcGwb.jpg"
+    },
+    "04": {
+      "nama": "Ice Cream",
+      "image": "https://i.imgur.com/rk50IqH.jpg"
+    },
+    "05": {
+      "nama": "Salad",
+      "image": "https://i.imgur.com/jcVLeGa.jpg"
+    }
+  },
+  
+  "User" : {
+    "087877" : {
+      "nama" : "Dicka",
+      "password" : "1234"
+    },
+    "087878" : {
+      "nama" : "Lian",
+      "password" : "1234"
+    },
+    "087879" : {
+      "nama" : "Hendry",
+      "password" : "1234"
+    },
+    "087880" : {
+      "nama" : "Robert",
+      "password" : "1234"
+    },
+    "087881" : {
+      "nama" : "Sonia",
+      "password" : "1234"
+    },
+    "087882" : {
+      "nama" : "Roy",
+      "password" : "1234"
+    }
+  }
+}
