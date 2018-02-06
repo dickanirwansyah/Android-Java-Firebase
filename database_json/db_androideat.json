@@ -1,28 +1,9 @@
 {
-  "catgory": {
-    "01": {
-      "nama": "Finger Food",
-      "image": "https://i.imgur.com/4SSYRZi.jpg"
-    },
-    "02": {
-      "nama": "Western Food",
-      "image": "https://i.imgur.com/0bbArrP.jpg"
-    },
-    "03": {
-      "nama": "Asian Food",
-      "image": "https://i.imgur.com/xawcGwb.jpg"
-    },
-    "04": {
-      "nama": "Ice Cream",
-      "image": "https://i.imgur.com/rk50IqH.jpg"
-    },
-    "05": {
-      "nama": "Salad",
-      "image": "https://i.imgur.com/jcVLeGa.jpg"
-    }
-  },
-  
   "User" : {
+    "014045" : {
+      "nama" : "dicka nirwansyah",
+      "password" : "root"
+    },
     "087877" : {
       "nama" : "Dicka",
       "password" : "1234"
@@ -47,5 +28,144 @@
       "nama" : "Roy",
       "password" : "1234"
     }
+  },
+
+  "catgory" : {
+    "01" : {
+      "image" : "http://footage.framepool.com/shotimg/qf/472214737-finger-food-dip-food-bread-plate-dish.jpg",
+      "nama" : "Finger Food"
+    },
+    "02" : {
+      "image" : "http://images.all-free-download.com/images/graphiclarge/food_picture_02_hd_pictures_167557.jpg",
+      "nama" : "Western Food"
+    },
+    "03" : {
+      "image" : "https://i.imgur.com/4SSYRZi.jpg",
+      "nama" : "Asian Food"
+    },
+    "04" : {
+      "image" : "https://i.imgur.com/rk50IqH.jpg",
+      "nama" : "Ice Cream"
+    },
+    "05" : {
+      "image" : "https://i.imgur.com/jcVLeGa.jpg",
+      "nama" : "Salad"
+    }
+  },
+  
+   "Food": {
+    "10": {
+      "nama": "Asinan Pepaya",
+      "image": "https://img-global.cpcdn.com/003_recipes/c2e44aa8ac278bf0/1200x630cq70/photo.jpg",
+      "description": "Asinan Pepaya sedap",
+      "price": "7000",
+      "discount": "0",
+      "categoryid": "05"
+    },
+    "11": {
+      "nama": "Lumpia Goreng",
+      "image": "https://www.kawalingpinoy.com/wp-content/uploads/2013/03/lumpiang-shanghai-1.jpg",
+      "description": "Lumpia Goreng Mantap",
+      "price": "8000",
+      "discount": "0",
+      "categoryid": "03"
+    },
+    "12": {
+      "nama": "Steak Sapi",
+      "image": "https://tennesseegrassfed.com/wp-content/uploads/2013/08/Sirloin-500x395.jpg",
+      "description": "Steak Daging Sapi Lada hitam",
+      "price": "150000",
+      "discount": "0",
+      "categoryid": "02"
+    },
+    "13": {
+      "nama": "Asparagus Tumis",
+      "image": "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/9/0/FNK_Steamed-Asparagus_s4x3.jpg.rend.hgtvcom.406.305.suffix/1387411415590.jpeg",
+      "description": "Asparagus Tumis Lada Hitam",
+      "price": "100000",
+      "discount": "0",
+      "categoryid": "01"
+    },
+    "14": {
+      "nama": "Spinach Salad",
+      "image": "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/4/27/0/WU0210H_perfect-spinach-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371606082753.jpeg",
+      "description": "Spinach Salad Lada Hitam",
+      "price": "80000",
+      "discount": "0",
+      "categoryid": "05"
+    },
+    "01": {
+      "nama": "Burger King",
+      "image": "http://www.cutehdwallpapers.com/uploads/large/burger/burger-food-full-hd.jpg",
+      "description": "Burger Daging Kambing",
+      "price": "10000",
+      "discount": "0",
+      "categoryid": "01"
+    },
+    "02": {
+      "nama": "Kebab Turki",
+      "image": "http://ak1.picdn.net/shutterstock/videos/4808951/thumb/11.jpg",
+      "description": "Kebab Daging Sapi",
+      "price": "25000",
+      "discount": "0",
+      "categoryid": "01"
+    },
+    "03": {
+      "nama": "Spageti",
+      "image": "http://www.classywallpapers.com/wp-content/uploads/2015/12/Spaghetti-HD-8.jpg",
+      "description": "Spageti Rasa Rendang",
+      "price": "18000",
+      "discount": "0",
+      "categoryid": "02"
+    },
+    "04": {
+      "nama": "Bolognese",
+      "image": "http://img.taste.com.au/5qlr1PkR/taste/2016/11/spaghetti-bolognese-106560-1.jpeg",
+      "description": "Bolognese Rasa Rendang",
+      "price": "26000",
+      "discount": "0",
+      "categoryid": "03"
+    },
+    "05": {
+      "nama": "Nasi Uduk",
+      "image": "http://resepmasakansederhana.info/wp-content/uploads/2014/08/nasi-uduk-komplit.jpg",
+      "description": "Nasi Uduk Betawi",
+      "price": "18000",
+      "discount": "0",
+      "categoryid": "03"
+    },
+    "06": {
+      "nama": "Nasi Padang Restu Bundo",
+      "image": "http://www.damniloveindonesia.com/image/catalog/explore_indonesia/Artikel/Taste/nasi_padang/opening_nasipadang.jpg",
+      "description": "Nasi Padang",
+      "price": "20000",
+      "discount": "0",
+      "categoryid": "03"
+    },
+    "07": {
+      "nama": "Ice Cream Sundae",
+      "image": "https://fthmb.tqn.com/TTWdJCHOoE3LWAaV6mjZgf6CE6o=/3992x2661/filters:fill(auto,1)/78317867-589d9d565f9b58819c3315b7.jpg",
+      "description": "Ice Cream Sundae Mantap",
+      "price": "30000",
+      "discount": "0",
+      "categoryid": "04"
+    },
+    "08": {
+      "nama": "Ice Cream Goreng",
+      "image": "http://1.bp.blogspot.com/-6lRHlGyiQX4/VLAVkNWxBXI/AAAAAAAABXk/DhByLiUuGR4/s1600/fried-ice-cream-azteca-de-oro.jpg",
+      "description": "Ice Cream Goreng Mantap",
+      "price": "20000",
+      "discount": "0",
+      "categoryid": "04"
+    },
+    "09": {
+      "nama": "Asinan Bogor",
+      "image": "http://saturesep.com/wp-content/uploads/2016/01/Resep-Asinan-Bogor-3-e1452260731257.jpg",
+      "description": "Asinan Borgor Mantap",
+      "price": "15000",
+      "discount": "0",
+      "categoryid": "05"
+    }
   }
 }
+

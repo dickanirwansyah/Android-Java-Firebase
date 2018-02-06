@@ -1,0 +1,54 @@
+{
+  "User" : {
+    "014045" : {
+      "nama" : "dicka nirwansyah",
+      "password" : "root"
+    },
+    "087877" : {
+      "nama" : "Dicka",
+      "password" : "1234"
+    },
+    "087878" : {
+      "nama" : "Lian",
+      "password" : "1234"
+    },
+    "087879" : {
+      "nama" : "Hendry",
+      "password" : "1234"
+    },
+    "087880" : {
+      "nama" : "Robert",
+      "password" : "1234"
+    },
+    "087881" : {
+      "nama" : "Sonia",
+      "password" : "1234"
+    },
+    "087882" : {
+      "nama" : "Roy",
+      "password" : "1234"
+    }
+  },
+  "catgory" : {
+    "01" : {
+      "image" : "http://footage.framepool.com/shotimg/qf/472214737-finger-food-dip-food-bread-plate-dish.jpg",
+      "nama" : "Finger Food"
+    },
+    "02" : {
+      "image" : "http://images.all-free-download.com/images/graphiclarge/food_picture_02_hd_pictures_167557.jpg",
+      "nama" : "Western Food"
+    },
+    "03" : {
+      "image" : "https://i.imgur.com/4SSYRZi.jpg",
+      "nama" : "Asian Food"
+    },
+    "04" : {
+      "image" : "https://i.imgur.com/rk50IqH.jpg",
+      "nama" : "Ice Cream"
+    },
+    "05" : {
+      "image" : "https://i.imgur.com/jcVLeGa.jpg",
+      "nama" : "Salad"
+    }
+  }
+}

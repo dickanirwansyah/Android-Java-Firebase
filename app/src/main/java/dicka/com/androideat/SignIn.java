@@ -1,6 +1,7 @@
 package dicka.com.androideat;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -15,6 +16,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.rengwuxian.materialedittext.MaterialEditText;
 
+import dicka.com.androideat.common.DataUserLogin;
 import dicka.com.androideat.model.User;
 
 public class SignIn extends AppCompatActivity {
@@ -60,8 +62,15 @@ public class SignIn extends AppCompatActivity {
                             dialog.dismiss();
                             User user = dataSnapshot.child(edtPhone.getText().toString()).getValue(User.class);
                             if (user.getPassword().equals(edtPassword.getText().toString())) {
-
-                                Toast.makeText(SignIn.this, "Sign In Successfully !", Toast.LENGTH_SHORT).show();
+                                {
+                                    Intent homeIntent = new Intent(SignIn.this, Home.class);
+                                    //mendapatkan data user yang login
+                                    DataUserLogin.currentUser = user;
+                                    //jika berhasil di direct ke halaman home
+                                    startActivity(homeIntent);
+                                    //close login
+                                    finish();
+                                }
                             } else {
 
                                 Toast.makeText(SignIn.this, "Password dan Username tidak valid",
